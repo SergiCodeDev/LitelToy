@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="SergiCodeDev">
+  <title>LitelToy</title>
+  <meta name="description"
+    content="Compra de juguetes a medida, compra solo las piezas o juguetes que necesites.">
+  <meta name="keywords" content="tienda, juguetes, niños, liteltoy"/>
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <link rel="stylesheet" href="/iconos/css/fontawesome.min.css" />
+  <link rel="stylesheet" href="/iconos/css/solid.min.css">
+  <link rel="stylesheet" href="/iconos/css/brands.min.css">
+  <link rel="stylesheet" href="/css/estilos.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary bg-nav sticky-top">
+    <div class="container-fluid px-md-4 mx-md-2">
+      <a class="navbar-brand p-0 me-0 me-lg-2 d-flex align-middle" href="#" aria-label="Oreja">
+        <img src="./img/logo.png" width="32" height="32" class="d-block my-1">
+        <span class="text-titulo">LitelToy</span>
+      </a>
+
+      <button class="navbar-toggler" type="button" type="button" data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse text-1-25rem" id="navbarSupportedContent">
+        <ul class="navbar-nav mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active text-titulo hover-nav" aria-current="page" href="#">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-hover hover-nav" href="/catalogo.php">Catalogo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-hover hover-nav" href="/contacto.html">Contacto</a>
+          </li>
+
+        </ul>
+        <ul class="navbar-nav mb-lg-0 icon-ul scala">
+          <li><a href="#!"><i class="fa-brands fa-facebook text-titulo"></i></a></li>
+          <li><a href="#!"><i class="fa-brands fa-twitter text-titulo"></i></a></li>
+          <li><a href="#!"><i class="fa-brands fa-github text-titulo"></i></a></li>
+          <li><a href="#!"><i class="fa-solid fa-envelope text-titulo"></i></a></li>
+        </ul>
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- barra desplegada -->
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="offcanvasRightLabel"><a class="navbar-brand p-0 me-0 me-lg-2 d-flex align-middle"
+          href="#" aria-label="Oreja">
+          <img src="./img/logo.png" width="32" height="32" class="d-block my-1">
+          <span class="text-titulo">LitelToy</span>
+        </a></h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body text-1-25rem">
+
+      <ul class="navbar-nav mb-lg-0 text-center">
+        <li class="nav-item">
+          <a class="nav-link active text-titulo hover-nav" aria-current="page" href="#">Inicio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-hover hover-nav" href="/catalogo.php">Catalogo</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-hover hover-nav" href="/contacto.html">Contacto</a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav mb-lg-0 icon-ul p-0 scala theborde">
+        <li class="px-2"><a href="#!"><i class="fa-brands fa-facebook text-titulo"></i></a></li>
+        <li class="px-2"><a href="#!"><i class="fa-brands fa-twitter text-titulo"></i></a></li>
+        <li class="px-2"><a href="#!"><i class="fa-brands fa-github text-titulo"></i></a></li>
+        <li class="px-2"><a href="#!"><i class="fa-solid fa-envelope text-titulo"></i></a></li>
+      </ul>
+
+    </div>
+  </div>
+  <!-- barra desplegada -->
+
+  <div class="laportada">
+    <h2 class="portada-h2">Encuentra los LitelToy</h2>
+    <div class="portada-icon-div">
+      <a href="#!"><i class="fa-brands fa-facebook portada-icon"></i></a>
+      <a href="#!"><i class="fa-brands fa-twitter portada-icon"></i></a>
+      <a href="#!"><i class="fa-brands fa-github portada-icon"></i></a>
+
+    </div>
+    <div class="custom-shape-divider-bottom-1684748039">
+      <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path
+          d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
+          opacity=".25" class="shape-fill"></path>
+        <path
+          d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
+          opacity=".5" class="shape-fill"></path>
+        <path
+          d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"
+          class="shape-fill"></path>
+      </svg>
+    </div>
+  </div>
+
+  <div class="servicios container-fluid overflow-hidden">
+    <h2>Servicios</h2>
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 d-flex justify-content-center">
+        <div class="formas3">
+          <div class="imagen-forma1">
+            <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1800' fill='#808' width='100%' height='100%'>
+              <path
+                d='M1386.57 181.4c160.9 73.74 328.5 149.72 424.59 281.57 96.09 129.61 118.44 315.09 98.33 487.16-20.11 172.07-84.92 332.97-187.71 446.94-105.03 116.2-250.29 185.48-391.07 243.58-138.55 60.34-272.63 109.5-393.31 91.62-122.91-17.88-234.64-102.8-377.66-160.9-143.02-58.1-317.33-87.15-406.71-183.24-89.39-96.09-96.09-261.46 2.23-368.72 98.33-109.5 301.68-160.9 384.37-270.4 82.68-111.73 42.46-283.81 84.92-422.36C669.24 188.1 798.86 80.83 937.41 60.72c140.79-20.11 290.51 49.16 449.17 120.67Z'>
+              </path>
+            </svg>
+          </div>
+          <div class="imagen-forma2">
+            <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 2000' fill='#808' width='100%' height='100%'>
+              <path
+                d='M1891 560c0-277-224-509-501-499-372 13-397 281-504 302s-215-179-511-75a459 459 0 0 0-222 218C10 809 262 886 259 992s-201 171-82 395c34 64 99 127 212 141 56 6 103 47 115 102a377 377 0 0 0 383 310c222 2 528-202 380-536-42-97 30-123 73-194s-11-120 128-156c233-61 423-246 423-494Z'>
+              </path>
+            </svg>
+          </div>
+          <div class="imagen-forma3">
+            <img src="./img/servi.png" alt="" class="img-fluid">
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-6 margen-pservi text-parrafo">
+        <p>LitelToy es una tienda de juguetes que ofrece una amplia variedad de productos, incluyendo piezas para
+          construir y crear. Nuestros juguetes son seguros para los niños y cumplen con todas las normas de seguridad.
+          Además, ofrecemos un excelente servicio al cliente y la posibilidad de adquirir repuestos para nuestros
+          productos.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center iconos-serv px-4 px-md-0 text-titulo">
+      <div class="col-6 col-md-3">
+        <a href="#!">
+          <i class="fa-solid fa-shirt"></i>
+          <h4>Camisetas</h4>
+        </a>
+
+      </div>
+      <div class="col-6 col-md-3">
+        <a href="#!">
+          <i class="fa-brands fa-jedi-order"></i>
+          <h4>Productos</h4>
+        </a>
+
+      </div>
+      <div class="col-6 col-md-3">
+        <a href="#!">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <h4>Advertencia</h4>
+        </a>
+      </div>
+      <div class="col-6 col-md-3">
+        <a href="#!">
+          <i class="fa-solid fa-comment-dots"></i>
+          <h4>Ayuda</h4>
+        </a>
+      </div>
+    </div>
+
+
+  </div>
+
+  <div class="ubi-con container-fluid">
+    <div class="custom-shape-divider-top-1684925570">
+      <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path
+          d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z"
+          opacity=".25" class="shape-fill"></path>
+        <path
+          d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z"
+          opacity=".5" class="shape-fill"></path>
+        <path
+          d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z"
+          class="shape-fill"></path>
+      </svg>
+    </div>
+    <h2>Dónde Estamos</h2>
+    <div class="row espacio-bajo">
+      <div class="col-12 col-xl-6 ">
+        <div class="row justify-content-center mapa">
+          <div class="col-12 col-xl-10 p-4">
+            <iframe class="shadow borde-mapa"
+              src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d931.307300635083!2d-0.7019255750985197!3d38.26716167415537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d38.2673157!2d-0.7024838!5e0!3m2!1ses!2ses!4v1684910563501!5m2!1ses!2ses"
+              width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+
+          </div>
+        </div>
+
+      </div>
+      <div class="col-12 col-xl-6 d-flex align-items-center p-4 justify-content-center">
+        <div class="row con-cen flex-column">
+          <div class="col-12  d-flex align-items-center">
+            <i class="fa-solid fa-envelope pe-4"></i>
+            <a href="mailto:liteltoy@liteltoy.com">Correo: liteltoy@liteltoy.com</a>
+
+          </div>
+          <div class="col-12  d-flex align-items-center">
+            <i class="fa-solid fa-phone-volume pe-4"></i>
+            <a href="tel:+34 666 666 666">Tel: +34 666 666 666</a>
+
+          </div>
+          <div class="col-12  d-flex align-items-center">
+            <i class="fa-solid fa-comments pe-4"></i>
+            <a href="/contacto.php">Envianos un formulario</a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="custom-shape-divider-bottom-1684999708">
+      <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
+      </svg>
+    </div>
+  </div>
+
+  <div class="fondo-footer">
+    <div class="container final">
+      <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+        <div class="col mb-3">
+          <a href="/index.html" class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none">
+
+            <img src="./img/logo.png" width="32" height="32" class="bi me-2">
+            <span class="text-titulo logo-font">LitelToy</span>
+          </a>
+          <p class="text-body-secondary">© 2023</p>
+        </div>
+
+        <div class="col mb-3">
+
+        </div>
+
+        <div class="col mb-3">
+
+        </div>
+
+        <div class="col mb-3">
+          <h5 class="text-titulo">Servicios</h5>
+          <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="#!" class="nav-link p-0 text-body-secondary">Camisetas</a></li>
+            <li class="nav-item mb-2"><a href="#!" class="nav-link p-0 text-body-secondary">Productos</a></li>
+            <li class="nav-item mb-2"><a href="#!" class="nav-link p-0 text-body-secondary">Advertencia</a></li>
+            <li class="nav-item mb-2"><a href="#!" class="nav-link p-0 text-body-secondary">Ayuda</a></li>
+          </ul>
+        </div>
+
+        <div class="col mb-3">
+          <h5 class="text-titulo">Contacto</h5>
+          <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="mailto:liteltoy@liteltoy.com"
+                class="nav-link p-0 text-body-secondary">Correo: liteltoy@liteltoy.com</a></li>
+            <li class="nav-item mb-2"><a href="tel:+34 666 666 666" class="nav-link p-0 text-body-secondary">Tel: +34
+                666
+                666 666</a></li>
+            <li class="nav-item mb-2"><a href="/contacto.html" class="nav-link p-0 text-body-secondary">Envianos un
+                formulario</a></li>
+
+          </ul>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+
+  <script src="/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
