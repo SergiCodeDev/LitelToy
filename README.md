@@ -38,10 +38,10 @@
 
 ## Filtro de contenido con isotope
 
-<p align="center" style="display: flex; align-items: flex-start;">
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general01liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general02liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
+<p>
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general01liteltoy.jpg?raw=true" alt="portada" width="32%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general02liteltoy.jpg?raw=true" alt="portada" width="32%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="portada" width="32%">
 </p>
 
 ## Para que funcione correctamente la web necesitas:
