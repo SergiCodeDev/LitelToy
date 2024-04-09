@@ -8,7 +8,7 @@
 
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/01LITELTOY.jpg?raw=true" alt="Portada con efecto parallax">
 
-## Sección servicios.
+## Sección servicios ( foto con fondo animado al hacer hover ).
 
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/02LITELTOY.jpg?raw=true" alt="Sección servicios">
 
