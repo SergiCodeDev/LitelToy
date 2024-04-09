@@ -8,9 +8,9 @@
 
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/01LITELTOY.jpg?raw=true" alt="Portada con efecto parallax">
 
-## Servicios.
+## Sección servicios.
 
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/02LITELTOY.jpg?raw=true" alt="Servicios">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/02LITELTOY.jpg?raw=true" alt="Sección servicios">
 
 ## Dónde estamos con mapa de google interactivo.
 
@@ -44,7 +44,7 @@
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="general03" width="32%">
 </p>
 
-## Responsive movil
+## Responsive móvil.
 
 <p align="center">
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m01LITELTOY.jpg?raw=true" alt="Responsive movil portada" width="19%">
@@ -53,6 +53,8 @@
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m04LITELTOYf.jpg?raw=true" alt="Responsive movil footer" width="19%">
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m05LITELTOYform.jpg?raw=true" alt="Responsive movil formulario" width="19%">
 </p>
+
+### La web es totalmente responsive para las distintas plataformas móvil, tablet, portátil...
 
 ## Para que funcione correctamente la web necesitas:
 
