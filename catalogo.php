@@ -42,7 +42,7 @@
             <a class="nav-link active text-titulo hover-nav" aria-current="page" href="./index.html">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-hover hover-nav" href="#">Catalogo</a>
+            <a class="nav-link text-hover hover-nav" href="#">Catálogo</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-hover hover-nav" href="./contacto.html">Contacto</a>
@@ -76,7 +76,7 @@
           <a class="nav-link active text-titulo hover-nav" aria-current="page" href="./index.html">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-hover hover-nav" href="#">Catalogo</a>
+          <a class="nav-link text-hover hover-nav" href="#">Catálogo</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-hover hover-nav" href="./contacto.html">Contacto</a>
@@ -95,7 +95,7 @@
   <!-- barra desplegada -->
 
   <div class="cat-aticulos container-fluid p-4 px-3 px-md-5">
-    <h2 class="custom-text-articulos">Catalogo de articulos</h2>
+    <h2 class="custom-text-articulos">Catálogo de artículos</h2>
 
     <?php
     // ...
@@ -189,7 +189,7 @@
   
   <div class="cat-aticulos container-fluid p-4 px-3 px-md-5 bg-fondo2 pos-relative min-hheight-10 novedad-box">
   
-    <h2 class="nuevos-art">Nuevos articulos</h2>
+    <h2 class="nuevos-art">Nuevos artículos</h2>
 
     <div class="custom-shape-divider-top-1685349630">
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">

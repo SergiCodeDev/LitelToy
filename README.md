@@ -6,43 +6,51 @@
 
 ## Portada con efecto parallax.
 
-<!-- <img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/01HELADOS.jpg?raw=true" alt="portada">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/01LITELTOY.jpg?raw=true" alt="Portada con efecto parallax">
 
-## Información y bienvenida
+## Servicios.
 
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/02HELADOS.jpg?raw=true" alt="Información y bienvenida">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/02LITELTOY.jpg?raw=true" alt="Servicios">
 
-## Carousel bootstrap
+## Dónde estamos con mapa de google interactivo.
 
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/03HELADOS.jpg?raw=true" alt="Carousel">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/03LITELTOY.jpg?raw=true" alt="Dónde estamos con mapa de google interactivo">
+
+## Footer de página con servicios y contactos de interés.
+
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/04LITELTOY.jpg?raw=true" alt="Footer de página con servicios y contactos de interés">
+
+## Catálogo de artículos que provienen de una base de datos y se muestran directamente a través de PHP.
+
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/05LITELTOY.jpg?raw=true" alt="Catálogo de artículos que provienen de una base de datos y se muestran directamente a través de PHP">
+
+## Muestra los dos artículos más recientes añadidos a la base de datos.
+
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/06LITELTOY.jpg?raw=true" alt="Muestra los dos artículos más recientes añadidos a la base de datos">
+
+## Formulario de contacto con reCAPTCHA que envía un correo a nuestro servidor de correo electrónico gracias a PHPMailer.
+
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/07LITELTOY.jpg?raw=true" alt="Muestra los dos artículos más recientes añadidos a la base de datos">
+
+## Crea tu propio liteltoy ( vídeo en bucle ).
+
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/08LITELTOYvideo.jpg?raw=true" alt="Muestra los dos artículos más recientes añadidos a la base de datos">
 
 ## Filtro de contenido con isotope
 
-<p align="center">
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/04HELADOS1.jpg?raw=true" alt="portada" width="49%">
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/04HELADOS2.jpg?raw=true" alt="portada" width="49%">
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/04HELADOS3.jpg?raw=true" alt="portada" width="49%">
+<p align="center" style="display: flex; align-items: flex-start;">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general01liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general02liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="portada" width="32%" style="width: 33.3333333333%;">
 </p>
-
-## Sección de helados
-
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/05HELADOS.jpg?raw=true" alt="helados">
-
-## Sección de promos y descuentos
-
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/06HELADOS.jpg?raw=true" alt="promos y descuentos">
-
-## Contactos y horarios
-
-<img src="https://github.com/SergiCodeDev/HELADOMET/blob/main/README/07HELADOS.jpg?raw=true" alt="Contactos y horarios"> -->
 
 ## Para que funcione correctamente la web necesitas:
 
 > - Descargar PHPMailer 6.8.0: https://github.com/PHPMailer/PHPMailer
-> - Renombrar la carpeta a PHPMailer y ponerla en la carpeta pluguins.
+> - Renombrar la carpeta a PHPMailer y ponerla en la carpeta /php/pluguins/.
     
 > - Descargar el vídeo: https://pixabay.com/es/videos/cubo-rubik-cubo-de-rubik-130135/
-> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta media.
+> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta /media.
 
 ## Este archivo contiene LICENCIAS de:
 
