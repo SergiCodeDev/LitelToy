@@ -36,12 +36,22 @@
 
 <img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/08LITELTOYvideo.jpg?raw=true" alt="Muestra los dos artículos más recientes añadidos a la base de datos">
 
-## Filtro de contenido con isotope
+## Vista general de las páginas.
 
-<p>
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general01liteltoy.jpg?raw=true" alt="portada" width="32%">
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general02liteltoy.jpg?raw=true" alt="portada" width="32%">
-<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="portada" width="32%">
+<p align="center">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general01liteltoy.jpg?raw=true" alt="general01" width="32%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general02liteltoy.jpg?raw=true" alt="general02" width="32%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/general03liteltoy.jpg?raw=true" alt="general03" width="32%">
+</p>
+
+## Responsive movil
+
+<p align="center">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m01LITELTOY.jpg?raw=true" alt="Responsive movil portada" width="19%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m03LITELTOY.jpg?raw=true" alt="Responsive movil artículo" width="19%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m02LITELTOYmenu.jpg?raw=true" alt="Responsive movil menú" width="19%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m04LITELTOYf.jpg?raw=true" alt="Responsive movil footer" width="19%">
+<img src="https://github.com/SergiCodeDev/LitelToy/blob/main/README/m05LITELTOYform.jpg?raw=true" alt="Responsive movil formulario" width="19%">
 </p>
 
 ## Para que funcione correctamente la web necesitas:
