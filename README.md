@@ -59,10 +59,10 @@
 ## Para que funcione correctamente la web necesitas:
 
 > - Descargar PHPMailer 6.8.0: https://github.com/PHPMailer/PHPMailer
-> - Renombrar la carpeta a PHPMailer y ponerla en la carpeta /php/pluguins/.
+> - Renombrar la carpeta a PHPMailer y ponerla en la carpeta LitelToy/php/pluguins/.
     
 > - Descargar el vídeo: https://pixabay.com/es/videos/cubo-rubik-cubo-de-rubik-130135/
-> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta /media.
+> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta LitelToy/media.
 
 ## Este archivo contiene LICENCIAS de:
 
