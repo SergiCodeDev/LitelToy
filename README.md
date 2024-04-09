@@ -62,7 +62,7 @@
 > - Renombrar la carpeta a PHPMailer y ponerla en la carpeta LitelToy/php/pluguins/.
     
 > - Descargar el vídeo: https://pixabay.com/es/videos/cubo-rubik-cubo-de-rubik-130135/
-> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta LitelToy/media.
+> - Renombrar el archivo a rubic liteltoy.mp4 y ponlo en la carpeta LitelToy/media/.
 
 ## Este archivo contiene LICENCIAS de:
 
