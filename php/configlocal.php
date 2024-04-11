@@ -2,7 +2,7 @@
 $servidorbd = "localhost";
 $usuariobd = "root";
 $contrabd = "";
-$basedatos = "tiendalegos";
+$basedatos = "tiendaliteltoy";
 
 $conexion = new mysqli($servidorbd,$usuariobd,$contrabd,$basedatos);
 ?>
