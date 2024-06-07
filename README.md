@@ -1,7 +1,5 @@
 # LitelToy
 
-## Trabajo final del curso de Confección y Publicación de Páginas WEB (LABORA)
-
 ### Esta web no es oficial, solo es para aprender, aunque me esforcé bastante en hacerla.
 
 ## Portada con efecto parallax.
